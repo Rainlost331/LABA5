@@ -1,0 +1,2 @@
+Создаю класс Tetrahedron, объявив поля, создаю конструктор этого класса, добавляю геттеры и сеттеры. В функции print_info выводится информации об объекте класса Tetrahedron. В main создаю два объекта класса Tetrahedron и вывожу информацию о них.
+https://drive.google.com/file/d/1hfWNMsj3XkS9MaQTcHETK01mP5rXzpGE/view?usp=share_link
